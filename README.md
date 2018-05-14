@@ -1,5 +1,5 @@
 # Shortest_Route_Challenge
-Finding shortest route to cover all the kiosk centers of the company.
+Finding shortest route to cover all the kiosk centers of the company for the two drivers
 <ul>
 <li>
 Used greedy approach to find the shortest route.
