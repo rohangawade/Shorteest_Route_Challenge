@@ -7,3 +7,6 @@ Used greedy approach to find the shortest route.
 the greedy algorithm as an input to 2opt function.
 <li> Visualized the route on maps using folium package. Displayed inline in the jupyter notebook and also created .html file for the same
 <li><b>Technology : </b> Python, pandas, numpy, folium, Jupyter notebook
+
+View to the notebook.
+https://nbviewer.jupyter.org/github/rohangawade/Shortest_Route_Challenge/blob/master/code/Short_Route_Challenge.ipynb
